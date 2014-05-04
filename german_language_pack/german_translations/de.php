@@ -107,6 +107,7 @@ $german = array(
 
 	'pageownerunavailable' => 'Warnung: Der Seiten-Eigentümer %d ist nicht erreichbar!',
 	'viewfailure' => 'In der View %s ist ein interner Fehler aufgetreten.',
+	'view:missing_param' => "Der notwendige Parameter '%s' fehlt in der View %s.",
 	'changebookmark' => 'Bitte ändere Dein Lesezeichen für diese Seite.',
 	'noaccess' => 'Der Seiteninhalt, den Du aufgerufen hast, wurde entweder gelöscht oder Du hast keine ausreichende Berechtigung, um darauf zuzugreifen.',
 	'error:missing_data' => 'Bei Deiner Anfrage fehlten einige notwendige Daten.',
@@ -298,6 +299,7 @@ $german = array(
 	'profile:editdefault:fail' => 'Die Änderung der Profilfelder konnte nicht gespeichert werden.',
 	'profile:field_too_long' => 'Die Profilinformationen können nicht gespeichert werden, da der Inhalt des "%s"-Feldes zu lang ist.',
 	'profile:noaccess' => "Du hast keine ausreichende Berechtigung, um dieses Profil zu editieren.",
+	'profile:invalid_email' => '%s muss eine gültige Email-Adresse sein.',
 
 /**
  * Feeds
@@ -314,9 +316,9 @@ $german = array(
  * River
  */
 	'river' => "River",
-	'river:friend:user:default' => "%s ist nun mit %s befreundet.",
-	'river:update:user:avatar' => '%s hat ein neues Profilbild hochgeladen.',
-	'river:update:user:profile' => '%s hat ihre/seine Profilseite aktualisiert.',
+	'river:friend:user:default' => "%s ist nun mit %s befreundet",
+	'river:update:user:avatar' => '%s hat ein neues Profilbild hochgeladen',
+	'river:update:user:profile' => '%s hat ihre/seine Profilseite aktualisiert',
 	'river:noaccess' => 'Du hast keine Berechtigung um diesen Eintrag anzuzeigen.',
 	'river:posted:generic' => '%s schrieb',
 	'riveritem:single:user' => 'ein Mitglied',
@@ -1121,15 +1123,21 @@ Nachdem Du Dich angemeldet hast, solltest Du Dein Passwort ändern.
 	'item:object:elgg_upgrade' => 'Community-Seite-Aktualisierungen',
 	'admin:upgrades:none' => 'Deine Installation ist aktuell!',
 
-	'upgrade:comments:status' => 'Es gibt <b>%s</b> Kommentare, die aktualisiert werden müssen.',
-	'upgrade:comments:warning' => '<b>Warnung:</b> auf einer großen Community-Seite kann die Durchführung dieser Aktualisierung einige Zeit in Anspruch nehmen!',
-	'upgrade:comments:success_count' => 'Aktualisierte Kommentare:',
-	'upgrade:comments:error_count' => 'Fehler:',
+	'upgrade:item_count' => 'Es gibt <b>%s</b> Elemente, die aktualisiert werden müssen.',
+	'upgrade:warning' => '<b>Warnung:</b> auf einer großen Community-Seite kann die Durchführung dieser Aktualisierung einige Zeit in Anspruch nehmen!',
+	'upgrade:success_count' => 'Aktualisiert:',
+	'upgrade:error_count' => 'Fehler:',
+	'upgrade:river_update_failed' => 'Die Aktualisierung des River-Eintrags für das Element mit ID %s ist fehlgeschlagen.',
+	'upgrade:timestamp_update_failed' => 'Die Aktualisierung der Zeitstempel für das Element mit ID %s ist fehlgeschlagen.',
+	'upgrade:finished' => 'Die Aktualisierung ist abgeschlossen.',
+	'upgrade:finished_with_errors' => '<p>Die Aktualisierung wurde beendet. Allerdings sind dabei Fehler aufgetreten. Lade die Seite erneut und versuche, die Aktualisierung nochmals durchzuführen.</p></p><br />Wenn dabei wieder Fehler auftreten, schaue in der Logdatei Deines Servers nach, ob es dort Einträge gibt, die eventuell weitere Informationen zur Ursache der Fehler liefern. Du kannst auch in der <a href="http://community.elgg.org/groups/profile/179063/elgg-technical-support">Technical support-Gruppe</a> auf der Elgg-Community-Seite um Hilfe bei Deinem Problem bitten.</p>',
+
+	// Strings specific for the comments upgrade
 	'admin:upgrades:comments' => 'Aktualisierung der Kommentare',
-	'upgrade:comments:river_update_failed' => 'Die Aktualisierung des River-Eintrags für den Kommentar mit ID %s ist fehlgeschlagen.',
-	'upgrade:comments:timestamp_update_failed' => 'Die Aktualisierung der Zeitstempel für den Kommentar mit ID %s ist fehlgeschlagen.',
-	'upgrade:comments:create_failed' => 'Die Konvertierung des Kommentars mit ID %s in eine Entität ist fehlgeschlagen.',
-	'upgrade:comments:finished' => 'Die Aktualisierung ist abgeschlossen.',
+	'upgrade:comment:create_failed' => 'Die Konvertierung des Kommentars mit ID %s in eine Entität ist fehlgeschlagen.',
+
+	// Strings specific for the datadir upgrade
+	'admin:upgrades:datadirs' => 'Aktualisierung des Datenverzeichnisses',
 
 /**
  * Welcome

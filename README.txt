@@ -26,4 +26,4 @@ Changelog:
 
 r0 (Elgg 1.9dev):
 
-* Initial Release for Elgg 1.9 (Pre-Release based on Elgg 1.9dev github master from 2014/04/10)
+* Initial Release for Elgg 1.9 (Pre-Release based on Elgg 1.9dev github master from 2014/05/04)

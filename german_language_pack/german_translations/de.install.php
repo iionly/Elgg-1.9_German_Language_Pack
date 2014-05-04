@@ -1,6 +1,6 @@
 <?php
 /**
- * Installer German Language
+ * Installer German Language file
  *
  * (C) iionly 2012-2014
  * GNU Public License version 2

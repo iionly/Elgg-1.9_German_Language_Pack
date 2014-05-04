@@ -1,5 +1,6 @@
 <?php
 /**
+ * The Wire German language file
  *
  * (C) iionly 2012-2014
  * GNU Public License version 2

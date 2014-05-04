@@ -1,5 +1,4 @@
 <?php
-
 /**
  * German Language Pack for Elgg 1.9
  *

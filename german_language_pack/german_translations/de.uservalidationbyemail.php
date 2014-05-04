@@ -1,5 +1,6 @@
 <?php
 /**
+ * UserValidationByEmail German language file
  *
  * (C) iionly 2012-2014
  * GNU Public License version 2

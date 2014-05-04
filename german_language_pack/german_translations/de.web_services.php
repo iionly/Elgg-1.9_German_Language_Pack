@@ -1,7 +1,6 @@
 <?php
 /**
- * Web services English language file
- * Tag cloud German language file
+ * Web services German language file
  *
  * (C) iionly 2012-2014
  * GNU Public License version 2
