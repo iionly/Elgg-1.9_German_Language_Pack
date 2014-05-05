@@ -18,7 +18,7 @@
  * ISO 639-1 Länderkürzel: http://en.wikipedia.org/wiki/List_of_ISO_639-1_codes
  *
  * (C) iionly 2012-2014
- * GNU Public License version 2
+ * Dual licensed under the MIT or GPL Version 2 licenses
  *
  * https://github.com/iionly
  * Contact: iionly@gmx.de

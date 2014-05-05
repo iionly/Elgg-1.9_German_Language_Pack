@@ -8,7 +8,7 @@
 	<description>This plugin provides the German translations for the language files of Elgg including bundled plugins.</description>
 	<website>https://github.com/iionly</website>
 	<copyright>(C) iionly 2012-2014</copyright>
-	<license>GNU Public License version 2</license>
+	<license>Dual licensed under the MIT or GPL Version 2 licenses</license>
 	<requires>
 		<type>elgg_release</type>
 		<version>1.9</version>

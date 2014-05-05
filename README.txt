@@ -1,7 +1,8 @@
 German Language Pack for Elgg 1.9dev - Release 0
+
+Copyright: (c) 2012-2014 iionly
 Contact: iionly@gmx.de
-License: GNU General Public License version 2
-Copyright: (c) iionly
+License: Dual licensed under the MIT or GPL Version 2 licenses
 
 
 This Language Pack contains the German language files for Elgg 1.9.X (suitable release for "X" version of Elgg see Changelog) including the bundled plugins.
@@ -26,4 +27,5 @@ Changelog:
 
 r0 (Elgg 1.9dev):
 
-* Initial Release for Elgg 1.9 (Pre-Release based on Elgg 1.9dev github master from 2014/05/04)
+* Initial Release for Elgg 1.9 (Pre-Release based on Elgg 1.9dev github master from 2014/05/04),
+* Dual licensed under the MIT or GPL Version 2 licenses.
