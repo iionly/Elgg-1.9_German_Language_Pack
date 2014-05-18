@@ -1139,6 +1139,10 @@ Nachdem Du Dich angemeldet hast, solltest Du Dein Passwort ändern.
 	// Strings specific for the datadir upgrade
 	'admin:upgrades:datadirs' => 'Aktualisierung des Datenverzeichnisses',
 
+	// Strings specific for the discussion reply upgrade
+	'admin:upgrades:discussion_replies' => 'Aktualisierung der Antworten in Diskussionsbeiträgen',
+	'discussion:upgrade:replies:create_failed' => 'Die Konvertierung des Diskussions-Antwort-Eintrags mit ID %s in eine Entität ist fehlgeschlagen..',
+
 /**
  * Welcome
  */

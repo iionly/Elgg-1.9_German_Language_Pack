@@ -185,15 +185,6 @@ Schau Dir den Diskussionsbeitrag an und antworte selbst darauf:
 	'discussion:reply:error:notdeleted' => 'Die Antwort im Diskussionsbeitrag konnte nicht gelöscht werden.',
 
 	'admin:groups' => 'Gruppen',
-	'admin:groups:upgrades:2013100401' => 'Aktualisierung der Antworten in Diskussionsbeiträgen',
-	'discussion:upgrade:replies:status' => 'Es gibt <b>%s</b> Antworten in Diskussionsbeiträgen, die aktualisiert werden müssen.',
-	'discussion:upgrade:replies:warning' => '<b>Warnung:</b> bei einer größeren Elgg-Community-Seite mit einer grossen Zahl von Antworten in Diskussionsbeiträgen kann die Durchführung der Aktualisierung eine beträchtliche Zeit dauern!',
-	'discussion:upgrade:replies:success_count' => 'Antworten in Diskussionsbeiträgen aktualisiert:',
-	'discussion:upgrade:replies:error_count' => 'Fehler:',
-	'discussion:upgrade:replies:river_update_failed' => 'Die Aktualisierung des River-Eintrags für die Antwort auf einen Diskussionsbeitrag mit ID %s ist fehlgeschlagen.',
-	'discussion:upgrade:replies:timestamp_update_failed' => 'Die Aktualisierung des Timestamp-Eintrags die Antwort auf einen Diskussionsbeitrag mit ID %s ist fehlgeschlagen.',
-	'discussion:upgrade:replies:create_failed' => 'Die Konvertierung der Antwort auf einen Diskussionsbeitrag mit ID %s in eine Entität ist fehlgeschlagen.',
-	'discussion:upgrade:replies:finished' => 'Die Aktualisierung ist abgeschlossen.',
 
 	'reply:this' => 'Antwort schreiben',
 
