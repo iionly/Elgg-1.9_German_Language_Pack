@@ -269,6 +269,7 @@ oder folge dem nächsten Link, um die ausstehenden Anfragen zum Gruppenbeitritt 
 	'river:join:group:default' => '%s ist der Gruppe %s beigetreten',
 	'river:create:object:groupforumtopic' => '%s schrieb einen neuen Diskussionsbeitrag %s',
 	'river:reply:object:groupforumtopic' => '%s schrieb einen Kommentar zum Diskussionsbeitrag %s',
+	'river:reply:view' => 'Kommentar anzeigen',
 
 	'groups:nowidgets' => 'Für diese Gruppe wurden keine Widgets aktiviert.',
 
