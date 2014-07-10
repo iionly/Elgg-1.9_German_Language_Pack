@@ -1,5 +1,5 @@
 German Language Pack for Elgg 1.9
-Release 1.9.0-rc.3
+Release 1.9.0-rc.4
 
 Copyright: (c) 2012-2014 iionly
 Contact: iionly@gmx.de
@@ -34,6 +34,12 @@ Erstmal der Hinweis: die deutschen Übersetzungen in Elgg core sind auch von mir
 ----------
 
 Changelog:
+
+1.9.0-rc.4 (for Elgg 1.9.0-rc.4):
+
+* Updated main language file,
+* Updated install language file,
+* Updated language files of bundled plugins: file, groups.
 
 1.9.0-rc.3 (for Elgg 1.9.0-rc.3):
 

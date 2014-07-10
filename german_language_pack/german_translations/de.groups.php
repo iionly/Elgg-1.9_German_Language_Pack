@@ -273,7 +273,6 @@ oder folge dem nächsten Link, um die ausstehenden Anfragen zum Gruppenbeitritt 
 
 	'groups:nowidgets' => 'Für diese Gruppe wurden keine Widgets aktiviert.',
 
-
 	'groups:widgets:members:title' => 'Mitglieder der Gruppen',
 	'groups:widgets:members:description' => 'Zeige die Mitglieder einer Gruppe an.',
 	'groups:widgets:members:label:displaynum' => 'Zeige die Mitglieder einer Gruppe an.',
@@ -307,6 +306,8 @@ oder folge dem nächsten Link, um die ausstehenden Anfragen zum Gruppenbeitritt 
 
 	'groups:invitekilled' => 'Die Einladung wurde gelöscht.',
 	'groups:joinrequestkilled' => 'Der Antrag zum Gruppenbeitritt wurde gelöscht.',
+	'groups:error:addedtogroup' => "Das Hinzufügen von %s als Mitglied der Gruppe ist fehlgeschlagen.",
+	'groups:add:alreadymember' => "%s ist bereits ein Mitglied dieser Gruppe.",
 
 	/**
 	 * ecml
