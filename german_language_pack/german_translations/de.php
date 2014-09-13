@@ -1294,7 +1294,7 @@ Du kannst auf diese Email NICHT antworten.",
 	'elgg:powered' => "Community-Seite erstellt mit Elgg",
 
 /**
- * Languages according to ISO 639-1
+ * Languages according to ISO 639-1 (with a couple of exceptions)
  */
 	"aa" => "Afar",
 	"ab" => "Abchasisch",
@@ -1313,6 +1313,7 @@ Du kannst auf diese Email NICHT antworten.",
 	"bo" => "Tibetisch",
 	"br" => "Bretonisch",
 	"ca" => "Katalanisch",
+	"cmn" => "Chinesisch (Mandarin)", // ISO 639-3
 	"co" => "Korsisch",
 	"cs" => "Tschechisch",
 	"cy" => "Walisisch",
@@ -1364,7 +1365,7 @@ Du kannst auf diese Email NICHT antworten.",
 	"ku" => "Kurdisch",
 	"ky" => "Kirgisisch",
 	"la" => "Latein",
-        "ln" => "Lingala",
+	"ln" => "Lingala",
 	"lo" => "Laotisch",
 	"lt" => "Litauisch",
 	"lv" => "Lettisch",
@@ -1389,6 +1390,7 @@ Du kannst auf diese Email NICHT antworten.",
 	"pl" => "Polnisch",
 	"ps" => "Paschtunisch",
 	"pt" => "Portugiesisch",
+	"pt_br" => "Portugiesisch (Brasilianisch)",
 	"qu" => "Quechua",
 	"rm" => "Rätoromanisch",
 	"rn" => "Kirundi",

@@ -74,6 +74,7 @@ $german = array(
 	'groups:featuredon' => '%s ist nun eine "Besondere Gruppe".',
 	'groups:unfeatured' => '%s wurde aus der Liste der "Besonderen Gruppen" entfernt.',
 	'groups:featured_error' => 'Ungültige Gruppe.',
+	'groups:nofeatured' => 'Keine "Besonderen Gruppen" vorhanden.',
 	'groups:joinrequest' => 'Gruppenbeitritt beantragen',
 	'groups:join' => 'Gruppe beitreten',
 	'groups:leave' => 'Gruppe verlassen',
