@@ -1,5 +1,5 @@
 German Language Pack for Elgg 1.9
-Release 1.9.1
+Release 1.9.2
 
 Copyright: (c) 2012-2014 iionly
 Contact: iionly@gmx.de
@@ -34,6 +34,11 @@ Erstmal der Hinweis: die deutschen Übersetzungen in Elgg core sind auch von mir
 ----------
 
 Changelog:
+
+1.9.2 (for Elgg 1.9.2):
+
+* Updated main language file,
+* Removed file views/default/js/languages/de.php as it's no longer necessary.
 
 1.9.1 (for Elgg 1.9.1):
 

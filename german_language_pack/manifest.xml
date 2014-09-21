@@ -3,7 +3,7 @@
 	<name>German Language Pack for Elgg 1.9</name>
 	<id>german_language_pack</id>
 	<author>iionly</author>
-	<version>1.9.1</version>
+	<version>1.9.2</version>
 	<category>communication</category>
 	<description>This plugin provides the German translations for the language files of Elgg including bundled plugins.</description>
 	<website>https://github.com/iionly</website>
@@ -11,6 +11,6 @@
 	<license>Dual licensed under the MIT or GPL Version 2 licenses</license>
 	<requires>
 		<type>elgg_release</type>
-		<version>1.9.1</version>
+		<version>1.9.2</version>
 	</requires>
 </plugin_manifest>
