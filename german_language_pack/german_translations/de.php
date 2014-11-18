@@ -289,7 +289,7 @@ $german = array(
 	'profile:edit:default' => 'Anpassen der Profilfelder',
 	'profile:label' => "Name des Profilfeldes",
 	'profile:type' => "Feldtyp",
-	'profile:editdefault:delete:fail' => 'Das Entfernen des Standard-Feldes aus dem Profil ist fehlgeschlagen.',
+	'profile:editdefault:delete:fail' => 'Das Entfernen des Profilfeldes ist fehlgeschlagen.',
 	'profile:editdefault:delete:success' => 'Das Profilfeld wurde gelöscht!',
 	'profile:defaultprofile:reset' => 'Die Standard-Profilfelder wurden wiederhergestellt.',
 	'profile:resetdefault' => 'Standard-Profilfelder wiederherstellen',
@@ -912,7 +912,6 @@ Diese Änderungen werden nur neu erstellte Benutzeraccounts auf Deiner Community
 	'title' => "Titel",
 	'description' => "Beschreibung",
 	'tags' => "Tags",
-	'spotlight' => "Spotlight",
 	'all' => "Alle",
 	'mine' => "Meine",
 
