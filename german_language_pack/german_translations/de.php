@@ -50,7 +50,7 @@ $german = array(
 	'actionnotfound' => "Die Datei für die Ausführung der Aktion %s wurde nicht gefunden.",
 	'actionloggedout' => "Entschuldigung, Du kannst diese Aktion nicht ausführen während Du nicht angemeldet bist.",
 	'actionunauthorized' => 'Du bist nicht authorisiert, diese Aktion auszuführen',
-	'PluginException:MisconfiguredPlugin' => "%s (GUID: %s) ist ein falsch konfiguriertes Plugin. Es wurde deaktiviert. Im Elgg-Wiki sind einige mögliche Ursachen für das Problem beschrieben (http://docs.elgg.org/wiki/).",
+	'PluginException:MisconfiguredPlugin' => "%s (GUID: %s) ist ein falsch konfiguriertes Plugin. Es wurde deaktiviert. Im Elgg-Wiki sind einige mögliche Ursachen für das Problem beschrieben (http://learn.elgg.org/).",
 	'PluginException:CannotStart' => '%s (GUID: %s) kann nicht gestartet werden und wurde deaktiviert. Ursache: %s.',
 	'PluginException:InvalidID' => "%s ist eine ungültig Plugin-ID.",
 	'PluginException:InvalidPath' => "%s ist ungültiger Plugin-Dateipfad.",
@@ -618,7 +618,7 @@ $german = array(
 	'admin:plugins:warning:elgg_version_unknown' => 'Dieses Plugin verwendet eine veraltete Manifest-Datei und es gibt keine Informationen bezüglich den kompatiblen Elgg-Versionen. Es wird wahrscheinlich nicht funktionieren!',
 	'admin:plugins:warning:unmet_dependencies' => 'Dieses Plugin hat unerfüllte Abhängigkeiten und kann deshalb nicht aktiviert werden. Prüfe die Abhängigkeiten für weitere Informationen.',
 	'admin:plugins:warning:invalid' => 'Dieses Plugin ist nicht standardkonform: %s.',
-	'admin:plugins:warning:invalid:check_docs' => 'Bitte schau in der <a href="http://docs.elgg.org/Invalid_Plugin">Elgg-Dokumentation</a> nach, um weitere Hinweise zur Problemlösung zu erhalten.',
+	'admin:plugins:warning:invalid:check_docs' => 'Bitte schau in der <a href="http://learn.elgg.org/en/stable/appendix/faqs.html">Elgg-Dokumentation</a> nach, um weitere Hinweise zur Problemlösung zu erhalten.',
 	'admin:plugins:cannot_activate' => 'Aktivierung nicht möglich.',
 
 	'admin:plugins:set_priority:yes' => "%s neu angeordnet.",
@@ -1100,7 +1100,7 @@ Nachdem Du Dich angemeldet hast, solltest Du Dein Passwort ändern.
 		das im Paket der neuesten Version von Elgg enthalten ist und von <a href="http://elgg.org">elgg.org</a>
 		heruntergeladen werden kann.<br /><br />
 
-		Wenn Du genauere Installationsanweisungen benötigst, lese die <a href="http://docs.elgg.org/wiki/Upgrading_Elgg">
+		Wenn Du genauere Installationsanweisungen benötigst, lese die <a href="http://learn.elgg.org/en/stable/admin/upgrading.html">
 		Dokumentation über die Aktualisierung von Elgg</a>.  Falls Du Hilfe benötigst, stelle Deine Frage in den
 		<a href="http://community.elgg.org/pg/groups/discussion/">Community Support-Foren</a>.',
 
